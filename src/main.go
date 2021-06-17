@@ -165,6 +165,12 @@ func mainHandler(w http.ResponseWriter, r *http.Request) {
 		}
 		io.WriteString(w, "database cleared")
 		return
+	default:
+		http.Error(
+			w, fmt.Sprintf("unrecognized type query: '%s'", val[0]),
+			http.StatusBadRequest,
+		)
+		return
 	}
 }
 
