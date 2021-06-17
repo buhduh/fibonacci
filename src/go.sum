@@ -1,0 +1,4 @@
+github.com/buhduh/go-logger v0.0.0-20210323050617-8784dc24f0a4 h1:3rBiYIjsQThxCeQxRmQ1c9Ip2NI2MPEk29+ovZmAb50=
+github.com/buhduh/go-logger v0.0.0-20210323050617-8784dc24f0a4/go.mod h1:B48dkEbAFtJDsz0eoQZfXdA+qRj91djd5Gg5j4B/TrI=
+github.com/lib/pq v1.10.2 h1:AqzbZs4ZoCBp+GtejcpCpcxM3zlSMx29dXbUSeVtJb8=
+github.com/lib/pq v1.10.2/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
